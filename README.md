@@ -1,6 +1,7 @@
-# Machine_learning_v2.0
+# Algorithmic trading
+# Stock predictions
 
-Stock predictions based on historical data using recurrent neural networks(RNN)and Long-Short Term Memory(LSTM) Algorithm.
+Stock predictions is one of the primary stage of Algo trading, based on historical data using recurrent neural networks(RNN)and Long-Short Term Memory(LSTM) Algorithm.
 
 1. Download the stock_prediction_LSTM.py file.
 2. Download the .csv file as data input.
